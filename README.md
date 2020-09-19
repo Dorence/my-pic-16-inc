@@ -1,6 +1,6 @@
 # my-pic-16-inc
 
-PIC16F include lib
+PIC16F include lib, for MPASM 8-bit and PIC16F1xxxx
 
 Use MPLAB IDE code folder `<editor-fold>`.
 
